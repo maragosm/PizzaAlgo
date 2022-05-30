@@ -1,8 +1,3 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
-
-Feature Branch testing
-
-Bug Fix testing
-
-Exercise 2 "test" text
+3. Order pizza from online website (test branch text)
